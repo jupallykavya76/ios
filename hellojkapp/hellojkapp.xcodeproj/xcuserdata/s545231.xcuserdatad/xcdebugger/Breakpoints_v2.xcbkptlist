@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2E725F16-E8AD-4543-B140-99FFC631E7D6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC1FF7AA-6E06-4BB6-9584-748190B2BF0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hellojkapp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56E011D8-E47E-4977-8865-77BA469D63B9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hellojkapp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "56E011D8-E47E-4977-8865-77BA469D63B9 - 5aa9edbf19948414"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.AppDelegate.__allocating_init() -&gt; hellojkapp.AppDelegate"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "7">
+               </Location>
+               <Location
+                  uuid = "56E011D8-E47E-4977-8865-77BA469D63B9 - ae3dc1037f309369"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.AppDelegate.init() -&gt; hellojkapp.AppDelegate"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "56E011D8-E47E-4977-8865-77BA469D63B9 - 1a687d4343f498ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.AppDelegate.__deallocating_deinit"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "56E011D8-E47E-4977-8865-77BA469D63B9 - b6313fc2d66cb66d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13DB2624-667E-43E2-8EC6-1C2F3F3412B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hellojkapp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "54FFFCDC-15B4-473D-8522-79F39941AA23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hellojkapp/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22460720-8D6E-44BC-B0CF-2008CB95A848"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "hellojkapp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "22460720-8D6E-44BC-B0CF-2008CB95A848 - efb761d030a1103f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.ViewController.displayLable.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "22460720-8D6E-44BC-B0CF-2008CB95A848 - 630fd346255b1c33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.ViewController.displayLable.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "22460720-8D6E-44BC-B0CF-2008CB95A848 - 97b9c0c2d12f6551"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.ViewController.displayLable.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "22460720-8D6E-44BC-B0CF-2008CB95A848 - 71ca9129f4d3b0f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.ViewController.displayLable.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "22460720-8D6E-44BC-B0CF-2008CB95A848 - 682bec203b666887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; hellojkapp.ViewController"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "174">
+               </Location>
+               <Location
+                  uuid = "22460720-8D6E-44BC-B0CF-2008CB95A848 - d8d5ade12b991cf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "hellojkapp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;hellojkapp.ViewController&gt;"
+                  moduleName = "hellojkapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s545231/Desktop/hellojkapp/hellojkapp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "131">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
